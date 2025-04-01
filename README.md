@@ -5,7 +5,7 @@
 
 Official implementation of the MLP framework for detecting careless responses in online questionnaires, as presented in:
 **"A Multilayer Perceptron Model to Detect Careless Responses in Online Likert Questionnaires"**  
-*Yangruiyu Zeng, Hui Yuan, Ligang Wang*, et al. (2024)
+*Yangruiyu Zeng, Hui Yuan, Ligang Wang*, et al. (2025)
 
 ## Features
 - **Noise Injection System**: Simulates 4 careless response patterns
@@ -20,7 +20,7 @@ git clone https://github.com/zengyangruiyu0113/careless-response-detection.git
 cd careless-response-detection
 pip install -r requirements.txt
 
- Data Preparation
+## Data Preparation
 | Item1 | Item2 | ... | Item20 |
 |-------|-------|-----|--------|
 |   3   |   1   | ... |   2    |
